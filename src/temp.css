@@ -1,0 +1,59 @@
+
+
+@font-face {
+    font-style: normal;
+    font-weight: normal;
+    font-family: 'FiraSans-Regular';
+    src: url(./fonts/FiraSans-Regular.eot); /* IE9 Compat Modes */
+    src: local('FiraSans-Regular'), local('FiraSans-Regular'),
+    url(./fonts/FiraSans-Regular.woff2) format('woff2'),
+    url(./fonts/FiraSans-Regular.woff) format('woff'),
+    url(./fonts/FiraSans-Regular.ttf) format('truetype'); /* Safari, Android, iOS */
+}
+
+@font-face {
+    font-style: normal;
+    font-weight: normal;
+    font-family: 'FiraSans-Light';
+    src: url(./fonts/FiraSans-Light.eot); /* IE9 Compat Modes */
+    src: local('FiraSans-Light'), local('FiraSans-Light'),
+    url(./fonts/FiraSans-Light.woff) format('woff'),
+    url(./fonts/FiraSans-Light.woff2) format('woff2'),
+    url(./fonts/FiraSans-Light.ttf) format('truetype');
+}
+
+@font-face {
+    font-style: normal;
+    font-weight: normal;
+    font-family: 'Roboto-Medium';
+    src: url(./fonts/Roboto-Medium-webfont.eot); /* IE9 Compat Modes */
+    src: local('Roboto-Medium'), local('Roboto-Medium'),
+    url(./fonts/Roboto-Medium-webfont.woff) format('woff'),
+    url(./fonts/roboto-medium-webfont.woff2) format('woff2'),
+    url(./fonts/Roboto-Medium-webfont.ttf) format('truetype'),
+    url(./fonts/Roboto-Medium-webfont.svg) format('svg'); /* Legacy iO */
+}
+
+@font-face {
+    font-style: normal;
+    font-weight: normal;
+    font-family: 'Roboto-Regular';
+    src: url(./fonts/Roboto-Regular-webfont.eot); /* IE9 Compat Modes */
+    src: local('Roboto-Regular'), local('Roboto-Regular'),
+    url(./fonts/Roboto-Regular-webfont.woff) format('woff'),
+    url(./fonts/roboto-regular-webfont.woff2) format('woff2'),
+    url(./fonts/Roboto-Regular-webfont.ttf) format('truetype'),
+    url(./fonts/Roboto-Regular-webfont.svg) format('svg'); /* Legacy iO */
+}
+
+@font-face {
+    font-style: normal;
+    font-weight: normal;
+    font-family: 'Roboto-Light';
+    src: url(./fonts/Roboto-Light-webfont.eot); /* IE9 Compat Modes */
+    src: local('Roboto-Light'), local('Roboto-Light'),
+    url(./fonts/Roboto-Light-webfont.woff) format('woff'),
+    url(./fonts/roboto-light-webfont.woff2) format('woff2'),
+    url(./fonts/Roboto-Light-webfont.ttf) format('truetype'),
+    url(./fonts/Roboto-Light-webfont.svg) format('svg'); /* Legacy iO */
+}
